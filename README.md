@@ -7,3 +7,5 @@
 
 
 * 美國創業投資契約在我國閉鎖性股份有限公司下之應用及挑戰 2016 吳珮瑜
+
+* https://www.ycombinator.com/documents/
